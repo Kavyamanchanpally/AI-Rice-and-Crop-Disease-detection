@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crop Disease Diagnosis System
 
 An AI-powered platform for identifying diseases in rice and pulse crops through image analysis.
@@ -66,3 +67,6 @@ See the design document in `.kiro/specs/crop-disease-diagnosis/design.md` for de
 pytest:
 
 python -m pytest tests/test_transforms.py -v
+=======
+# AI-Rice-and-Crop-Disease-detection
+>>>>>>> 1dc9b7375bfa84455ec9f75cf735e72a25ab70c8
